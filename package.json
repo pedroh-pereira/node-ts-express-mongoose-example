@@ -1,5 +1,5 @@
 {
-  "name": "api-node-ts-example",
+  "name": "node-ts-express-mongoose-example",
   "version": "1.0.0",
   "main": "app.ts",
   "author": "Pedro Henrique A. Pereira <pehenri22@gmail.com>",
